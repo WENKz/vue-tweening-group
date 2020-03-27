@@ -4,9 +4,7 @@
     <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
-        >vue-cli documentation</a
-      >.
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
@@ -33,19 +31,13 @@
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
       </li>
       <li>
-        <a href="https://forum.vuejs.org" target="_blank" rel="noopener"
-          >Forum</a
-        >
+        <a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a>
       </li>
       <li>
-        <a href="https://chat.vuejs.org" target="_blank" rel="noopener"
-          >Community Chat</a
-        >
+        <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a>
       </li>
       <li>
-        <a href="https://twitter.com/vuejs" target="_blank" rel="noopener"
-          >Twitter</a
-        >
+        <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a>
       </li>
       <li>
         <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
@@ -54,44 +46,149 @@
     <h3>Ecosystem</h3>
     <ul>
       <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
-          >vue-router</a
-        >
+        <a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a>
       </li>
       <li>
         <a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a>
       </li>
       <li>
-        <a
-          href="https://github.com/vuejs/vue-devtools#vue-devtools"
-          target="_blank"
-          rel="noopener"
+        <a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener"
           >vue-devtools</a
         >
       </li>
       <li>
-        <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener"
-          >vue-loader</a
-        >
+        <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a>
       </li>
       <li>
-        <a
-          href="https://github.com/vuejs/awesome-vue"
-          target="_blank"
-          rel="noopener"
+        <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener"
           >awesome-vue</a
         >
       </li>
     </ul>
+    <svg
+      width="213px"
+      ref="svg"
+      height="303px"
+      viewBox="0 0 213 303"
+      stroke="none"
+      strokeWidth="1"
+      fill="none"
+      fillRule="evenodd"
+    >
+      <circle id="Oval-12-Copy-6" fill="#1D39C4" opacity="0.45" cx="60" cy="257" r="25" />
+      <circle id="Oval-12-Copy" fill="#1D39C4" opacity="0.35" cx="167.5" cy="65.5" r="11.5" />
+      <rect
+        id="Rectangle-14"
+        stroke="#1D39C4"
+        opacity="0.7"
+        x="0.5"
+        y="54.5"
+        width="14"
+        height="14"
+        rx="1"
+      />
+      <rect
+              id="Rectangle-14"
+              stroke="#1D39C4"
+              opacity="0.7"
+              x="0.5"
+              y="194.5"
+              width="14"
+              height="14"
+              rx="1"
+      />
+      <circle id="Path" fill="#1D39C4" opacity="0.5" cx="16.5" cy="100" r="3.5" />
+      <circle id="Path" fill="#1D39C4" opacity="0.5" cx="186.5" cy="196" r="3.5" />
+      <circle id="Path" fill="#1D39C4" opacity="0.5" cx="195.5" cy="117.5" r="3.5" />
+      <circle id="Path" fill="#1D39C4" opacity="0.5" cx="117" cy="2" r="2" />
+      <circle id="Path" fill="#1D39C4" opacity="0.6" cx="82" cy="36" r="2" />
+      <circle id="Path" fill="#1D39C4" opacity="0.6" cx="26.5" cy="102.5" r="1.5" />
+      <circle id="Oval-8" stroke="#1D39C4" opacity="0.65" cx="180.5" cy="8.5" r="4.5" />
+      <g id="Group-18" transform="translate(197.000000, 157.000000)" opacity="0.7" stroke="#1D39C4">
+        <path
+          d="M10.7320508,3 L15.0621778,10.5 C15.6144626,11.4565852 15.2867123,12.6797661 14.330127,13.2320508 C14.0260886,13.4075875 13.6812003,13.5 13.330127,13.5 L4.66987298,13.5 C3.56530348,13.5 2.66987298,12.6045695 2.66987298,11.5 C2.66987298,11.1489267 2.76228551,10.8040384 2.93782217,10.5 L7.26794919,3 C7.82023394,2.04341475 9.04341475,1.71566444 10,2.26794919 C10.3040384,2.44348586 10.5565141,2.69596158 10.7320508,3 Z"
+          id="Polygon-2"
+        />
+      </g>
+      <g
+        id="Group-17"
+        transform="translate(124.000000, 284.000000)"
+        opacity="0.65"
+        stroke="#1D39C4"
+      >
+        <path
+          d="M13.7320508,6 L18.0621778,13.5 C18.6144626,14.4565852 18.2867123,15.6797661 17.330127,16.2320508 C17.0260886,16.4075875 16.6812003,16.5 16.330127,16.5 L7.66987298,16.5 C6.56530348,16.5 5.66987298,15.6045695 5.66987298,14.5 C5.66987298,14.1489267 5.76228551,13.8040384 5.93782217,13.5 L10.2679492,6 C10.8202339,5.04341475 12.0434148,4.71566444 13,5.26794919 C13.3040384,5.44348586 13.5565141,5.69596158 13.7320508,6 Z"
+          id="Polygon-2"
+          transform="translate(12.000000, 11.140576) rotate(25.000000) translate(-12.000000, -11.140576) "
+        />
+      </g>
+    </svg>
   </div>
 </template>
 
 <script>
+import TWEEN from 'tween.js';
+import * as d3 from 'd3';
 export default {
-  name: "HelloWorld",
+  name: 'HelloWorld',
   props: {
-    msg: String
-  }
+    msg: String,
+  },
+  data: function() {
+    return {
+      page1Data: [
+        {
+          svgBg: `   `,
+        },
+      ],
+    };
+  },
+  methods: {
+    animate: function(time) {
+      requestAnimationFrame(this.animate);
+      TWEEN.update(time);
+    },
+    tweening: function(element, coords, from) {
+      new TWEEN.Tween(from)
+        .to(coords, 1000)
+        .easing(TWEEN.Easing.Quadratic.Out)
+        .onUpdate(function() {
+          element.style.setProperty('transform', 'translate(' + from.x + 'px, ' + from.y + 'px)');
+        })
+        .start();
+    },
+    action: function(element) {
+      requestAnimationFrame(this.animate);
+
+      let svg = d3.select(element);
+      let svgWidth = parseFloat(svg.style("width").slice(0, -2))/2
+      let svgHeight = parseFloat(svg.style("height").slice(0, -2))/2
+
+      let self = this;
+      svg.selectAll('rect').each(function() {
+        let x = this.getAttribute('x');
+        let y = this.getAttribute('y');
+        this.removeAttribute('x')
+        this.removeAttribute('y')
+        var coords = { x: svgWidth, y: svgHeight }; // Start at (0, 0)
+        self.tweening(this, { x: x, y: y }, coords);
+      });
+
+      svg.selectAll('circle').each(function() {
+        let x = this.getAttribute('cx');
+        let y = this.getAttribute('cy');
+        this.removeAttribute('cx')
+        this.removeAttribute('cy')
+        var coords = { x: svgWidth, y: svgHeight }; // Start at (0, 0)
+        self.tweening(this, { x: x, y: y }, coords);
+        x = null
+        y = null
+      });
+    },
+  },
+  mounted: function() {
+    this.action('svg');
+  },
 };
 </script>
 
